@@ -1,0 +1,60 @@
+GÉOLOGIE BAC – 8 SUJETS (VERSION HORS LIGNE)
+2e année bac SVT / PC – méthode OIC
+
+UTILISATION
+1. Décompresser le dossier (clic droit > Extraire tout).
+2. Ouvrir index.html (double-clic). La page d'accueil s'ouvre dans le navigateur.
+3. Cliquer sur un sujet. « ← Tous les sujets » ramène à l'accueil.
+
+Aucune connexion Internet n'est nécessaire. Ne pas séparer les fichiers :
+index.html et sujet1.html à sujet8.html doivent rester dans le même dossier.
+
+AFFICHAGE
+- Sur ordinateur, tout tient dans l'écran : ni la page ni les panneaux ne
+  défilent. Le document s'adapte à son cadre (cliquer dessus pour zoomer)
+  et le texte de la question s'ajuste à la hauteur de l'écran.
+- Chaque question a quatre onglets : 1. Préparer, 2. Rédiger (ouvert après
+  la préparation), 3. Vérifier, 4. Corrigé (débloqué après deux
+  vérifications ou trois indices ; il montre la réponse de l'élève à côté
+  du corrigé).
+- Les indices s'ouvrent dans un encadré refermable (×).
+- Bouton « Thème » : automatique, clair ou sombre.
+- Bouton « Projection » (vidéoprojecteur / data show) : grand texte, fort
+  contraste, documents plus larges, bouton « Plein écran » (Échap pour
+  sortir), passage d'une question à l'autre avec les flèches ← →, et
+  trois vues : Documents, Question ou Les deux (touches D, Q, B).
+- Le thème et le mode projection restent choisis pour tous les sujets.
+
+PRÉPARATION DU RAISONNEMENT (AVANT DE RÉDIGER)
+- Chaque question travaille une facette du raisonnement, de difficulté
+  croissante : 1 relever, 2 comparer, 3 déterminer/déduire,
+  4 établir des liens/expliquer/montrer, 5 synthétiser.
+- Avant de rédiger, l'élève passe par 4 à 6 petites étapes corrigées :
+  je mobilise mes connaissances, je décode la consigne, j'observe le
+  document, j'établis des liens, je prépare ma conclusion.
+- Erreur au 1er essai : une piste, sans la réponse. Au 2e essai : la
+  bonne réponse et son explication.
+- La zone de rédaction s'ouvre ensuite, avec un plan de réponse O-I-C.
+- Le bilan indique les étapes réussies du premier coup et les
+  connaissances à revoir.
+- Réglage enseignant (dans chaque fichier sujet) :
+  PREP_CONFIG = { obligatoire: true }  -> mettre false pour laisser
+  l'élève rédiger sans faire la préparation.
+
+CE QUI CHANGE PAR RAPPORT À LA VERSION EN LIGNE
+- Pas de tuteur IA : l'élève vérifie sa réponse avec la grille de critères
+  (auto-évaluation), puis consulte le corrigé après deux vérifications
+  ou trois indices.
+- Les indices gradués, le corrigé, le bilan par notion et les erreurs
+  fréquentes fonctionnent comme en ligne.
+- Les documents (cartes, coupes, lames minces, graphes) sont les images
+  numérisées du livre, identiques à la version en ligne.
+- Les réponses sont gardées dans le navigateur de l'appareil utilisé.
+  Un autre ordinateur ou un autre navigateur repart de zéro.
+
+APPAREILS
+- Ordinateur (Windows, Mac, Linux) : Chrome, Edge ou Firefox.
+- Tablette ou téléphone : l'ouverture directe d'un fichier .html dépend
+  de l'appareil ; l'usage sur ordinateur est le plus fiable.
+
+Sujet 6 : pression maximale retenue = 0,45 GPa (le livre écrit 0,5 GPa).
